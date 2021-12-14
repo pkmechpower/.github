@@ -15,8 +15,8 @@
 
 # You can find us here:
 
-1. [Facebook](https://www.facebook.com/PKMechPower)
-2. [Instagram](https://www.instagram.com/pkmechpower/)
-3. [LinkedIn](https://www.linkedin.com/company/mechpower)
-4. [Website](http://mechpower.pk.edu.pl/)
-5. pkmechpower@pk.edu.pl
+- [Facebook](https://www.facebook.com/PKMechPower)
+- [Instagram](https://www.instagram.com/pkmechpower/)
+- [LinkedIn](https://www.linkedin.com/company/mechpower)
+- [Website](http://mechpower.pk.edu.pl/)
+- pkmechpower@pk.edu.pl
